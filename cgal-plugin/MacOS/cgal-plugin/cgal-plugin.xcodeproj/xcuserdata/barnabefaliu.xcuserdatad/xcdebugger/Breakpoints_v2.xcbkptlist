@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../../../usr/local/Cellar/cgal/4.11/include/CGAL/Polygon_mesh_processing/corefinement.h"
+            timestampString = "534874815.202012"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "547"
+            endingLineNumber = "547"
+            landmarkName = "corefine_and_compute_difference( TriangleMesh&amp; tm1, TriangleMesh&amp; tm2, TriangleMesh&amp; tm_out, const NamedParameters1&amp; np1, const NamedParameters2&amp; np2, const NamedParametersOut&amp; np_out)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
